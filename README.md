@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Advanced Machine Learning** and **Cloud Integration**.
 - 💬 Ask me about **Python, Backend Architecture, or Debugging**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-website.com)
-
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=thanoskatsifis&repo=YOUR_BEST_PYTHON_REPO_NAME&theme=radical)](https://github.com/thanoskatsifis/YOUR_BEST_PYTHON_REPO_NAME)
 ---
 
 ### 🐍 Contribution Snake (Python Generated Animation)
